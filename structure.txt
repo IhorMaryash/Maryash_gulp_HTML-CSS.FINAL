@@ -1,0 +1,31 @@
+app/
+    images/
+    js/
+        main.js
+    styles/
+        base/
+            _base.scss
+            _variables.scss
+            _mixin.scss
+        components/
+            _header.scss
+        pages/
+            _home.scss
+        main.scss
+    views/
+        about.html
+    index.html
+
+
+gulp-sass
+gulp-autoprefixer
+gulp-cssnano
+gulp-rename
+
+gulp-concat
+gulp-uglify
+
+gulp-images
+
+browserSync
+
